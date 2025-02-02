@@ -1273,7 +1273,9 @@ html[dir=ltr] .nav-list>li>a {
                 width: 100%;
             }
     }
-    .partner{padding-bottom: 80px;}
+    .partner {
+        padding-top: 80px;
+    }
     .section-title.part {
       
         padding-top: 00px;
@@ -1300,4 +1302,13 @@ html[dir=ltr] .nav-list>li>a {
         background-color: #ffff;
         line-height: 37px;
         border-radius: 50%;
+        vertical-align: baseline;
+    }
+    .tik-div{display: inline;}
+    .social-foot.contact i {
+        display: inline-block;
+    }
+    .partner {
+        padding-top: 80px;
+        padding-bottom:0px
     }
