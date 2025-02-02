@@ -1291,3 +1291,13 @@ html[dir=ltr] .nav-list>li>a {
         -webkit-filter: grayscale(0);
         filter: grayscale(0);
     }
+    .social-foot.contact svg {
+        color: #846f62;
+        text-align: center;
+        margin: 10px 1px;
+        width: 37px;
+        height: 37px;
+        background-color: #ffff;
+        line-height: 37px;
+        border-radius: 50%;
+    }
