@@ -1312,3 +1312,11 @@ html[dir=ltr] .nav-list>li>a {
         padding-top: 80px;
         padding-bottom:0px
     }
+    .foot-social svg{
+        width: 37px;
+        height: 37px;
+    }
+    .foot-social {
+        display: flex ;
+        align-items: center;
+    } 
